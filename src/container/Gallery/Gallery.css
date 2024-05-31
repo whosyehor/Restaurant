@@ -106,7 +106,7 @@
 	}
 }
 
-@media screen and (min-width: 1150px) {
+@media screen and (max-width: 1150px) {
 	.app__gallery {
 		flex-direction: column;
 	}

@@ -1,10 +1,10 @@
 import React from 'react'
-
 import {
 	BsArrowLeftShort,
 	BsArrowRightShort,
 	BsInstagram,
 } from 'react-icons/bs'
+
 import { SubHeading } from '../../components'
 import { images } from '../../constants'
 import './Gallery.css'
